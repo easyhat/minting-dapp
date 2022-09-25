@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x46c4aA50AE496EeA34cbdA4B137501453384e8da",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x46c4aA50AE496EeA34cbdA4B137501453384e8da",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 5
+  },
+  "NFT_NAME": "Eye",
+  "SYMBOL": "Ey",
+  "MAX_SUPPLY": 15,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/eye-7vzcz0uokw",
+  "SHOW_BACKGROUND": true
+}
