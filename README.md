@@ -1,13 +1,15 @@
-# Sample Hardhat Project
+# Minting Dapp
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## build and run minting dap
+```shell
+yarn start
+yarn build
+```
 
-Try running some of the following tasks:
+## Deploy and compile smart contract
 
 ```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+yarn hardhat help
+yarn hardhat test
+yarn hardhat run scripts/deploy.js
 ```
